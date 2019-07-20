@@ -87,6 +87,7 @@ cover:
     covers:
       - relay_pin: 10
         state_pin: 11
+        name: 'Right door'
 ```
 
 {% configuration %}
@@ -142,6 +143,7 @@ cover:
     covers:
       - relay_pin: 10
         state_pin: 11
+        name: 'Left door'
       - relay_pin: 12
         state_pin: 13
         name: 'Right door'
